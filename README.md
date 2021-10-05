@@ -2,7 +2,7 @@
 
 ## Description
 
-This dice game was created using Python. The user rolls a 6 sided dice and a random outcome is produced.
+This dice game was created using Python. The user rolls a 6 sided die and a random outcome is produced.
 
 ## Deployment
 
